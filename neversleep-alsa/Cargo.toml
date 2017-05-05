@@ -1,0 +1,7 @@
+[package]
+name = "neversleep-alsa"
+version = "0.1.0"
+authors = ["David Henningsson <diwic@ubuntu.com>"]
+
+[dependencies]
+alsa = "*"
