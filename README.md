@@ -1,0 +1,1 @@
+This is something I presented at [Lund LinuxCon 2017](https://lundlc.org/). In short, for a particular USB sound card, the [manufacturer claims](https://global.focusrite.com/scarlett-in-depth#low-latency) that they can do roundtrip latency as low as 2.7 ms on Mac and 3.2 ms on Windows - with Linux and a core isolation approach, I was able to push it down to 1.2 ms on one system.
